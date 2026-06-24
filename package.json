@@ -1,0 +1,13 @@
+{
+  "name": "roblox-proxy-api",
+  "version": "1.0.0",
+  "description": "Proxy API untuk nyembunyiin API Key Zelapi",
+  "scripts": {
+    "start": "node api/roblox.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "Lu Sendiri",
+  "license": "MIT"
+}
