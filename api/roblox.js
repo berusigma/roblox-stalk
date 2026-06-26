@@ -27,7 +27,7 @@ export default async function handler(req, res) {
 
   try {
     // Request ke API asli
-    const apiUrl = `https://zelapioffciall.dpdns.org/stalk/roblox?user=${user}&apikey=${API_KEY}`;
+    const apiUrl = `https://zelapi.eu.cc/stalk/roblox?user=${user}&apikey=${API_KEY}`;
     const response = await fetch(apiUrl);
     
     // Parse hasil JSON-nya
